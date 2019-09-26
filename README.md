@@ -9,7 +9,7 @@ Projects for Code of Music Fall 19 @ NYU ITP
   [Live Demo](http://zeyaoli.com/code-of-music/rhythm)
   [Video Demo](https://www.youtube.com/watch?v=z0kOkyEowME)
 
-#### Summeray:
+#### Summary:
 <p>In this week, I tried to explore rhythm in a three-dimension space. To acheive the goal, I used a-frame, p5.js and Tone.js to create a simple staging drumpad. Users can explore rhythm by changing their location in the space as well as clicking different primitive shapes. </p>
 
 #### Interaction:
